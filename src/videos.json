@@ -1,0 +1,67 @@
+[
+    {
+        "thumbnail": "src/media/ganesh.jpg",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "src/media/hero.png",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "25k",
+            "published": "3 week ago"
+        }
+    },
+    {
+        "thumbnail": "https://cdn.pixabay.com/photo/2021/05/22/10/11/fishing-boat-6273132_960_720.jpg",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "src/media/hero.png",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "25k",
+            "published": "3 week ago"
+        }
+    },
+    {
+        "thumbnail": "https://cdn.pixabay.com/photo/2021/08/14/14/51/alps-6545561_960_720.jpg",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "src/media/hero.png",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "25k",
+            "published": "3 week ago"
+        }
+    },
+    {
+        "thumbnail": "https://cdn.pixabay.com/photo/2018/01/24/17/33/light-bulb-3104355_960_720.jpg",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "src/media/hero.png",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "25k",
+            "published": "3 week ago"
+        }
+    },
+    {
+        "thumbnail": "https://cdn.pixabay.com/photo/2020/05/18/16/17/social-media-5187243_960_720.png",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "src/media/hero.png",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "25k",
+            "published": "3 week ago"
+        }
+    }
+]
