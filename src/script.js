@@ -4,8 +4,6 @@ let videoCard = "";
 fetch("src/videos.json")
 .then(response => response.json())
 .then(videos => {
-    // console.log(videos);
-
     videos.forEach(video => {
         videoCard += `
         <div class="flex flex-col space-y-3 cursor-pointer">
