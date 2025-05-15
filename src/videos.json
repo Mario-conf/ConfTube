@@ -15,40 +15,378 @@
     {
         "thumbnail": "https://picsum.photos/320/180?random=2",
         "videoURL": "#",
-        "duration": "16:25",
+        "duration": "12:30",
         "desc": {
             "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
             "channelName": "Mario.Conf",
             "channelURL": "#",
-            "title": "This is a js version of YouTube",
-            "views": "25k",
-            "published": "3 week ago"
+            "title": "Building Modern Web Applications",
+            "views": "15k",
+            "published": "2 week ago"
         }
-    },
-    {
+        },
+        {
         "thumbnail": "https://picsum.photos/320/180?random=3",
         "videoURL": "#",
-        "duration": "16:25",
+        "duration": "8:45",
         "desc": {
             "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
             "channelName": "Mario.Conf",
             "channelURL": "#",
-            "title": "This is a js version of YouTube",
-            "views": "25k",
-            "published": "3 week ago"
+            "title": "Getting Started with React",
+            "views": "32k",
+            "published": "1 month ago"
         }
-    },
-    {
+        },
+        {
         "thumbnail": "https://picsum.photos/320/180?random=4",
         "videoURL": "#",
-        "duration": "16:25",
+        "duration": "10:15",
         "desc": {
             "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
             "channelName": "Mario.Conf",
             "channelURL": "#",
-            "title": "This is a js version of YouTube",
-            "views": "25k",
-            "published": "3 week ago"
+            "title": "Understanding JavaScript Closures",
+            "views": "20k",
+            "published": "2 weeks ago"
         }
-    }
-]
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=5",
+        "videoURL": "#",
+        "duration": "9:50",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "CSS Grid vs Flexbox",
+            "views": "12k",
+            "published": "1 week ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=6",
+        "videoURL": "#",
+        "duration": "11:30",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "Mastering Async/Await in JavaScript",
+            "views": "22k",
+            "published": "3 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=7",
+        "videoURL": "#",
+        "duration": "13:40",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "Introduction to Node.js",
+            "views": "30k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=8",
+        "videoURL": "#",
+        "duration": "15:00",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "Debugging JavaScript Applications",
+            "views": "18k",
+            "published": "2 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=9",
+        "videoURL": "#",
+        "duration": "7:30",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript ES6 Features",
+            "views": "28k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=10",
+        "videoURL": "#",
+        "duration": "6:45",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "Understanding the DOM",
+            "views": "10k",
+            "published": "2 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=11",
+        "videoURL": "#",
+        "duration": "5:20",     
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Array Methods",
+            "views": "14k",
+            "published": "1 week ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=12",
+        "videoURL": "#",
+        "duration": "4:10",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Object Destructuring",
+            "views": "8k",
+            "published": "3 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=13",
+        "videoURL": "#",
+        "duration": "3:55",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Promises Explained",
+            "views": "16k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=14",
+        "videoURL": "#",
+        "duration": "2:40",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Fetch API",
+            "views": "6k",
+            "published": "2 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=15",
+        "videoURL": "#",
+        "duration": "1:25",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Event Loop",
+            "views": "5k",
+            "published": "1 week ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=16",
+        "videoURL": "#",
+        "duration": "20:00",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Design Patterns",
+            "views": "40k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=17",
+        "videoURL": "#",
+        "duration": "18:30",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript ES6 Classes",
+            "views": "35k",
+            "published": "2 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=18",
+        "videoURL": "#",
+        "duration": "17:15",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Modules Explained",
+            "views": "50k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=19",
+        "videoURL": "#",
+        "duration": "19:45",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Error Handling",
+            "views": "45k",
+            "published": "3 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=20",
+        "videoURL": "#",
+        "duration": "21:10",    
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Regular Expressions",
+            "views": "55k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=21",
+        "videoURL": "#",
+        "duration": "22:30",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Array Iteration Methods",
+            "views": "60k",
+            "published": "2 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=22",
+        "videoURL": "#",
+        "duration": "23:50",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript String Methods",
+            "views": "65k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=23",
+        "videoURL": "#",
+        "duration": "24:15",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Number Methods",
+            "views": "70k",
+            "published": "3 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=24",
+        "videoURL": "#",
+        "duration": "25:30",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Date and Time",
+            "views": "75k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=25",
+        "videoURL": "#",
+        "duration": "26:45",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Math Object",
+            "views": "80k",
+            "published": "2 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=26",
+        "videoURL": "#",
+        "duration": "27:50",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Set and Map",
+            "views": "85k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=27",
+        "videoURL": "#",
+        "duration": "28:55",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript WeakSet and WeakMap",
+            "views": "90k",
+            "published": "3 weeks ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=28",
+        "videoURL": "#",
+        "duration": "29:10",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Proxy and Reflect",
+            "views": "95k",
+            "published": "1 month ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=29",
+        "videoURL": "#",
+        "duration": "30:20",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "JavaScript Symbol and Iterators",
+            "views": "100k",
+            "published": "2 weeks ago"
+        }   
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=30",
+        "videoURL": "#",
+        "duration": "14:20",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "Advanced TypeScript Patterns",
+            "views": "18k",
+            "published": "5 days ago"
+        }
+        }
+    ]
