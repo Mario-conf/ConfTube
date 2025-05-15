@@ -388,5 +388,31 @@
             "views": "18k",
             "published": "5 days ago"
         }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=31",
+        "videoURL": "#",
+        "duration": "15:30",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "TypeScript Generics in Depth",
+            "views": "20k",
+            "published": "1 week ago"
+        }
+        },
+        {
+        "thumbnail": "https://picsum.photos/320/180?random=32",
+        "videoURL": "#",
+        "duration": "16:40",
+        "desc": {
+            "channelLogo": "https://avatars.githubusercontent.com/u/152533010?v=4",
+            "channelName": "Mario.Conf",
+            "channelURL": "#",
+            "title": "TypeScript Decorators Explained",
+            "views": "22k",
+            "published": "2 weeks ago"
+        }
         }
     ]
